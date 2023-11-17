@@ -7,6 +7,8 @@
 
 - 🌱 I’m currently learning **Java, Machine learning, Deep learning**
 
+- 📫 How to reach me Sviatickk@yandex.ru
+
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://kaggle.com/ivanushka13" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="ivanushka13" height="30" width="40" /></a>
