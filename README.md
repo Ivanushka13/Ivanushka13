@@ -7,7 +7,7 @@
 
 - 🔭 I’m currently working on **Stability Analysis of Dynamic Systems**
 
-- 🌱 I’m currently learning **Java, Machine learning, Deep learning**
+- 🌱 I’m currently learning **Golang, Java**
 
 - 📫 How to reach me Sviatickk@yandex.ru
 
